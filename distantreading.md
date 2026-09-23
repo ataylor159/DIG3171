@@ -8,8 +8,12 @@ title: Distant Reading Project
 
 # Distant Reading Assignment 
 
-*This is a page where you can paste your distant reading assignment. I strongly suggest writing it in Word or Google Docs first, because Github will not alert you of typos*
+I used Voyant to search this website! [Witcher Website!](https://www.ebooks.com/en-us/series/the-witcher/?srsltid=AU7gw4X_ShFdhbbu6IPLb9EnYvV0q9JbP4x_cKoW4IjhLuAUE8B1gHwG)
 
-This file ends in ".md," which means it is a Markdown document, rather than HTML. I find Markdown easier to use than HTML, but you can easily change this to an HTML document if you prefer: just replace the .md with .html and commit! 
+I learned that
 
-Here is a fun link to a [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/). Once you grasp the basics here, go add "Markdown" to your list of skills on your resume!
+Check out my image!
+
+![Witcher words from Voyant](Witcherwords.png)
+....
+I also tried Copilot with ChatGPT-5 and here's a bit of our conversation!
